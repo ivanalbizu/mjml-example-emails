@@ -5,6 +5,10 @@
 ## Ruta de ejemplo de los emails
 
 - https://ivanalbizu.eu/experimentos/mails/news-01/
+- https://ivanalbizu.eu/experimentos/mails/news-02/
+- https://ivanalbizu.eu/experimentos/mails/news-03/
+- https://ivanalbizu.eu/experimentos/mails/news-04/
+- https://ivanalbizu.eu/experimentos/mails/news-05/
 
 ## Capturas de pantalla:
 
