@@ -1,0 +1,240 @@
+<mjml owa="desktop" lang="es">
+
+  <mj-head>
+		<mj-breakpoint width="480px" />
+    <mj-font name="Roboto Condensed" href="https://fonts.googleapis.com/css?family=Roboto+Condensed" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300" />
+    <mj-attributes>
+      <mj-text align="left" padding="0" />
+      <mj-image padding="0"></mj-image>
+      <mj-section padding="0"></mj-section>
+      <mj-column padding="0"></mj-column>
+      <mj-button border-radius="0"></mj-button>
+      <mj-all font-family="'Roboto Condensed', Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="16px" />
+    </mj-attributes>
+    <mj-style>
+      @media all and (min-width: 480px) {
+        .hero .hero-text {
+          font-size:30px!important;
+          line-height:45px!important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#1A1510" width="640px">
+    <mj-raw>
+      <div css-class="bg-hero">
+    </mj-raw>
+    <mj-hero
+      css-class="hero"
+      mode="fixed-height"
+      height="450px"
+      background-width="640px"
+      background-height="450px"
+      background-url="http://ivanalbizu.eu/experimentos/mails/news-04/intro.jpg"
+      padding="100px 0px">
+      <mj-text
+        padding="20px"
+        color="#1A1510"
+        font-family="'Roboto Condensed', Helvetica, sans-serif"
+        align="left"
+        font-size="25px"
+        line-height="40px"
+        font-weight="400"
+        letter-spacing="-0.5px">
+        <div class="hero-text" style="width:200px;text-shadow:1px 1px 4px #e0e0e0">
+          Lorem ipsum dolor sit amet, dolo consectetur
+        </div>
+      </mj-text>
+      <mj-button align="left" font-family="'Roboto Condensed', Helvetica, sans-serif" font-size="16px" font-weight="400" color="#ffffff" line-height="16px" background-color="#5D462E" border-radius="0" padding="20px" inner-padding="12px 40px" href="https://ivanalbizu.eu/">
+        <span style="color:#ffffff;">know more</span>
+      </mj-button>
+    </mj-hero>
+    <mj-raw>
+      </div>
+    </mj-raw>
+
+    <mj-section padding="55px 20px 55px" background-color="#F5F1EC">
+      <mj-column width="48%" padding="0 0 20px">
+        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-5.jpg" alt="" />
+        <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#1A1510" font-size="18px" line-height="22px" letter-spacing="0.8px" padding="10px 0 20px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing
+        </mj-text>
+        <mj-button align="left" font-family="'Roboto Condensed', Helvetica, sans-serif" font-size="16px" font-weight="400" color="#1A1510" line-height="16px" background-color="transparent" border-radius="0" padding="0" inner-padding="0" text-decoration="none" href="https://ivanalbizu.eu/">
+          <span style="color:#1A1510;text-decoration:underline #1A1510;letter-spacing:0.5px">read more</span>
+        </mj-button>
+      </mj-column>
+      <mj-column width="4%" padding-bottom="20px"></mj-column>
+      <mj-column width="48%" padding="0">
+        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-4.jpg" alt="" />
+        <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#1A1510" font-size="18px" line-height="22px" letter-spacing="0.8px" padding="10px 0 20px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing
+        </mj-text>
+        <mj-button align="left" font-family="'Roboto Condensed', Helvetica, sans-serif" font-size="16px" font-weight="400" color="#1A1510" line-height="16px" background-color="transparent" border-radius="0" padding="0" inner-padding="0" text-decoration="none" href="https://ivanalbizu.eu/">
+          <span style="color:#1A1510;text-decoration:underline #1A1510;letter-spacing:0.5px">read more</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 0 55px" background-color="#5D462E">
+
+      <mj-section padding="55px 20px 10px" background-color="#5D462E">
+        <mj-column width="48%" padding="0" background-color="#5D462E">
+          <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-3.jpg" alt="" />
+        </mj-column>
+        <mj-column width="4%" padding-bottom="20px" background-color="#5D462E"></mj-column>
+        <mj-column width="48%" padding="0" background-color="#5D462E">
+          <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#ffffff" font-size="29px" line-height="32px" letter-spacing="0.8px" padding="0 0 20px">
+            Lorem title
+          </mj-text>
+          <mj-text font-family="Roboto, Helvetica, sans-serif" color="#ffffff" font-size="17px" line-height="22px" letter-spacing="0.8px" padding="0 0 20px" font-weight="300">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis.
+          </mj-text>
+          <mj-button align="left" font-family="'Roboto Condensed', Helvetica, sans-serif" font-size="16px" font-weight="400" color="#ffffff" line-height="16px" background-color="transparent" border-radius="0" padding="0" inner-padding="0" text-decoration="none" href="https://ivanalbizu.eu/">
+            <span style="color:#ffffff;text-decoration:underline #ffffff;letter-spacing:0.5px">read more</span>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="55px 20px 10px" background-color="#5D462E" direction="rtl">
+        <mj-column width="48%" padding="0" background-color="#5D462E">
+          <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-2.jpg" alt="" />
+        </mj-column>
+        <mj-column width="4%" padding-bottom="20px" background-color="#5D462E"></mj-column>
+        <mj-column width="48%" padding="0" background-color="#5D462E">
+          <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#ffffff" font-size="29px" line-height="32px" letter-spacing="0.8px" padding="0 0 20px">
+            Lorem title
+          </mj-text>
+          <mj-text font-family="Roboto, Helvetica, sans-serif" color="#ffffff" font-size="17px" line-height="22px" letter-spacing="0.8px" padding="0 0 20px" font-weight="300">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis.
+          </mj-text>
+          <mj-button align="left" font-family="'Roboto Condensed', Helvetica, sans-serif" font-size="16px" font-weight="400" color="#ffffff" line-height="16px" background-color="transparent" border-radius="0" padding="0" inner-padding="0" text-decoration="none" href="https://ivanalbizu.eu/">
+            <span style="color:#ffffff;text-decoration:underline #ffffff;letter-spacing:0.5px">read more</span>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="55px 20px 10px" background-color="#5D462E">
+        <mj-column width="48%" padding="0" background-color="#5D462E">
+          <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-1.jpg" alt="" />
+        </mj-column>
+        <mj-column width="4%" padding-bottom="20px" background-color="#5D462E"></mj-column>
+        <mj-column width="48%" padding="0" background-color="#5D462E">
+          <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#ffffff" font-size="29px" line-height="32px" letter-spacing="0.8px" padding="0 0 20px">
+            Lorem title
+          </mj-text>
+          <mj-text font-family="Roboto, Helvetica, sans-serif" color="#ffffff" font-size="17px" line-height="22px" letter-spacing="0.8px" padding="0 0 20px" font-weight="300">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis.
+          </mj-text>
+          <mj-button align="left" font-family="'Roboto Condensed', Helvetica, sans-serif" font-size="16px" font-weight="400" color="#ffffff" line-height="16px" background-color="transparent" border-radius="0" padding="0" inner-padding="0" text-decoration="none" href="https://ivanalbizu.eu/">
+            <span style="color:#ffffff;text-decoration:underline #ffffff;letter-spacing:0.5px">read more</span>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+    <mj-section padding="55px 20px 55px" background-color="#ffffff">
+      <mj-column width="48%" padding="0">
+        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img.jpg" alt="" />
+      </mj-column>
+      <mj-column width="4%" padding-bottom="20px"></mj-column>
+      <mj-column width="48%" padding="0">
+        <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#5D462E" font-size="29px" line-height="32px" letter-spacing="0" padding="0 0 20px">
+          Lorem block title
+        </mj-text>
+        <mj-table align="left" padding="0">
+          <tr>
+            <td style="width:20px;padding:0 0 10px;vertical-align:top;">
+              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+            </td>
+            <td style="padding:0 0 10px;">
+              <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
+                List item urna venetatis magna und luctus sit amet
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td style="width:20px;padding:0 0 10px;vertical-align:top;">
+              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+            </td>
+            <td style="padding:0 0 10px;">
+              <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
+                List item urna venetatis magna luctus sit amet dolor
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td style="width:20px;padding:0 0 10px;vertical-align:top;">
+              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+            </td>
+            <td style="padding:0 0 10px;">
+              <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
+                List item urna venetatis magna tus sit amet
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td style="width:20px;padding:0 0 10px;vertical-align:top;">
+              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+            </td>
+            <td style="padding:0 0 10px;">
+              <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
+                List item urna venetatis magna luctus 
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td style="width:20px;padding:0 0 10px;vertical-align:top;">
+              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+            </td>
+            <td style="padding:0 0 10px;">
+              <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
+                List item venetatis magna luctus sit amet
+              </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-button align="left" width="100%" font-family="'Roboto Condensed', Helvetica, sans-serif" font-size="16px" font-weight="400" color="#ffffff" line-height="16px" background-color="#5D462E" border-radius="0" padding="20px 0 0" inner-padding="12px 40px" href="https://ivanalbizu.eu/">
+          <span style="color:#ffffff;">know more</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="40px 30px 20px" background-color="#F0F2F0">
+      <mj-column padding="0">
+        <mj-text align="center" font-family="'Roboto Condensed', Helvetica, sans-serif" color="#1A1510" font-size="24px" line-height="29px" letter-spacing="-0.2px" padding="0" font-weight="300">
+          find us in social
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#F0F2F0">
+      <mj-column padding="0">
+        <mj-social padding="20px 0px 40px" font-size="15px" icon-size="48px" mode="horizontal">
+          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="http://ivanalbizu.eu/experimentos/mails/news-04/instagram.png" alt="Instagram"></mj-social-element>
+          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="http://ivanalbizu.eu/experimentos/mails/news-04/twitter.png" alt="Twitter"></mj-social-element>
+          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="http://ivanalbizu.eu/experimentos/mails/news-04/linkedin.png" alt="Linkedin"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 20px 40px" background-color="#F0F2F0">
+      <mj-column width="500px">
+        <mj-text align="center" font-family="'Roboto', Helvetica, sans-serif" font-size="12px" font-weight="300" color="#1A1510" line-height="20px" letter-spacing="0px" padding-bottom="10px">
+          @2020 Copyleft
+        </mj-text>
+        <mj-text align="center" font-family="'Roboto', Helvetica, sans-serif" font-size="12px" font-weight="300" color="#1A1510" line-height="20px" letter-spacing="0px" padding-bottom="10px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor
+        </mj-text>
+        <mj-text align="center" font-family="'Roboto', Helvetica, sans-serif" font-size="12px" font-weight="300" color="#1A1510" line-height="20px" letter-spacing="0px" padding-bottom="10px">
+          <a href="https://ivanalbizu.eu/" style="color:#6B6B6B;text-decoration:underline;text-decoration-color:#1A1510;font-size:12px"><span style="color:#1A1510;">Unsuscribe</span></a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;
+          <a href="https://ivanalbizu.eu/" style="color:#6B6B6B;text-decoration:underline;text-decoration-color:#1A1510;font-size:12px"><span style="color:#1A1510;">Privacy Policy</span></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>

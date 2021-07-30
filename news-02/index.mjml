@@ -1,0 +1,183 @@
+<mjml owa="desktop">
+
+  <mj-head>
+		<mj-breakpoint width="480px" />
+    <mj-attributes>
+      <mj-text align="left" padding="20px" />
+      <mj-image padding="0"></mj-image>
+      <mj-section padding="0"></mj-section>
+      <mj-column padding="0"></mj-column>
+      <mj-button border-radius="0" padding="20px"></mj-button>
+      <mj-all font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="16px" />
+    </mj-attributes>
+    <mj-style>
+      @media all and (max-width: 480px) {
+        .bg-orange {
+          background-color: #FF912B;
+        }
+        .social a {
+          padding-left: 1px !important;
+          padding-right: 1px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f9f9f9">
+
+    <mj-section padding="3px 0">
+      <mj-column padding="2px 0">
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" color="#000000" font-size="10px" font-weight="400">
+        <a href="#to-do" style="text-decoration:none;color:#085ff9;">Abrir en un navegador</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="5px 0 0 0">
+      <mj-column>
+        <mj-divider border-width="6px" border-style="solid" border-color="#FF912B" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column width="100%" background-color="#ffffff" padding="20px 0 0">
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#000000" font-size="30px" font-weight="400" line-height="35px">
+          Welcome to no where
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 15px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="40px 0">
+          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_first-aid.png" width="60px" height="60px" alt="" />
+        </mj-column>
+        <mj-column padding="40px 0">
+          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_cardiology.png" width="60px" height="60px" alt="" />
+        </mj-column>
+        <mj-column padding="40px 0">
+          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_care-staff-area.png" width="60px" height="60px" alt="" />
+        </mj-column>
+        <mj-column padding="40px 0">
+          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_family-practice.png" width="60px" height="60px" alt="" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0 0 10px">
+      <mj-column width="100%" background-color="#FF912B" padding="40px 10px 20px">
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#ffffff" font-size="26px" font-weight="400" line-height="32px" letter-spacing="0.4px" padding="0 5px 30px">
+          Cuarentena COVID-19
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#ffffff" font-size="15px" font-weight="400" line-height="20px" letter-spacing="0.5px" padding="0 20px 30px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque.
+        </mj-text>
+        <mj-button font-family="Arial, Helvetica, sans-serif" color="#ffffff" font-size="16px" font-weight="400" color="#FF912B" line-height="16px" background-color="#FF912B" border-radius="0" border="2px solid #ffffff" inner-padding="12px 30px" href="#todo">
+          Call to Action
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column vertical-align="middle">
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="30px" font-weight="400" color="#000000" line-height="34px" padding-bottom="10px">
+          Título del bloque
+        </mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" color="#000000" line-height="20px" padding-bottom="10px" letter-spacing="0.2px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla.
+        </mj-text>
+        <mj-button font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" color="#FF912B" line-height="16px" background-color="#ffffff" border-radius="0" border="2px solid #FF912B" inner-padding="12px 30px" width="100%" href="#todo">
+          Call to Action
+        </mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle" css-class="bg-orange">
+        <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/soap.jpg" alt="Soap" />
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="20px 20px 20px" background-color="#F6F5F5">
+      <mj-section padding="0" background-color="#F6F5F5">
+        <mj-column background-color="#ffffff" width="32%" padding="0 0 15px" border="2px solid #FF912B">
+          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/stethoscope.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#FF912B" line-height="16px" padding="10px 0">
+            <a href="#todo" style="color:#FF912B;text-decoration:none;">Salud</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="2%" padding-bottom="20px"></mj-column>
+        <mj-column background-color="#ffffff" width="32%" padding="0 0 15px" border="2px solid #FF912B">
+          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/heart.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#FF912B" line-height="16px" padding="10px 0">
+            <a href="#todo" style="color:#FF912B;text-decoration:none;">Bienestar</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="2%" padding-bottom="20px"></mj-column>
+        <mj-column background-color="#ffffff" width="32%" padding="0 0 15px" border="2px solid #FF912B">
+          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/stomach.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#FF912B" line-height="16px" padding="10px 0">
+            <a href="#todo" style="color:#FF912B;text-decoration:none;">Alimentación</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="30px 0" background-color="#ffffff">
+      <mj-column vertical-align="middle">
+        <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/stop.png" width="219px" alt="Stop" padding="0" />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="30px" font-weight="400" color="#5458AD" line-height="34px" padding-bottom="10px">
+          Título del bloque
+        </mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" color="#5458AD" line-height="20px" padding-bottom="10px" letter-spacing="0.2px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla.
+        </mj-text>
+        <mj-button font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" color="#ffffff" line-height="16px" background-color="#5458AD" border-radius="0" border="2px solid #5458AD" inner-padding="12px 30px" width="100%" href="#todo">
+          Call to Action
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="25px 0 0" background-color="#F0F0F0">
+      <mj-column>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#5458AD" line-height="24px" padding-bottom="10px">
+          be social
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#F0F0F0">
+      <mj-column padding="0">
+        <mj-social padding="20px 0px" font-size="15px" icon-size="42px" mode="horizontal">
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-flickr-circular.png" alt="Flickr"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-facebook-circular.png" alt="Facebook"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-twitter-circular.png" alt="Twitter"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-vimeo-circular.png" alt="Vimeo"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-pinterest-circular.png" alt="Pinterest"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-linkedin-circular.png" alt="Linkedin"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#F0F0F0">
+      <mj-column padding="0" background-color="#F0F0F0" width="418px">
+        <mj-divider padding="5px 36px" border-width="1px" border-style="solid" border-color="#5458AD" />
+      </mj-column>
+    </mj-section>
+  
+    <mj-section padding="15px 15px 40px" background-color="#F0F0F0">
+      <mj-column width="500px">
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" color="#6B6B6B" line-height="12px" letter-spacing="0.1px" padding-bottom="0">
+          @2020 Copyleft
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" color="#6B6B6B" line-height="12px" letter-spacing="0.1px" padding-bottom="0">
+          Not all right are reserved
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" color="#6B6B6B" line-height="12px" letter-spacing="0.1px" padding-bottom="0">
+          <a href="#todo" style="color:#6B6B6B;text-decoration:underline;font-size:11px">Privacy Policy</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>

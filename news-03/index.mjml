@@ -1,0 +1,163 @@
+<mjml owa="desktop">
+
+  <mj-head>
+		<mj-breakpoint width="480px" />
+    <mj-attributes>
+      <mj-text align="left" padding="20px" />
+      <mj-image padding="0"></mj-image>
+      <mj-section padding="0"></mj-section>
+      <mj-column padding="0"></mj-column>
+      <mj-button border-radius="0" padding="20px"></mj-button>
+      <mj-all font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="16px" />
+    </mj-attributes>
+    <mj-style>
+      @media all and (max-width: 480px) {
+        .bg-orange {
+          background-color: #FF912B;
+        }
+        .social a {
+          padding-left: 1px !important;
+          padding-right: 1px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f9f9f9">
+  
+    <mj-section padding="0">
+      <mj-column>
+        <mj-divider border-width="5px" border-style="solid" border-color="#5458AD" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 20px" background-color="#EEF2F5">
+      <mj-column padding="10px">
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="22px" line-height="28px" padding-bottom="0">
+          Mensaje motivo del correo electrónico
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#424242" font-size="14px" line-height="18px" padding-bottom="10px">
+          Email Subtitle
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 20px 7px" background-color="#EEF2F5">
+      <mj-column width="280px" background-color="#ffffff" padding="33px 10px">
+        <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-03/calendar.png" width="42px" height="48px" alt="" />
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#424242" font-size="13px" font-style="italic" line-height="18px" padding-bottom="0">
+          15/02/2020
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 20px 20px" background-color="#EEF2F5">
+      <mj-column width="280px" background-color="#ffffff" padding="0">
+        <mj-button width="100%" font-family="Arial, Helvetica, sans-serif" color="#ffffff" font-size="17px" font-weight="400" color="#FF912B" line-height="16px" background-color="#5458AD" border-radius="0" border="2px solid #5458AD" padding="0" inner-padding="15px 10px" href="#todo">
+          Call to Action
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0 0" background-color="#EEF2F5">
+      <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
+        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto1-big.jpg" alt="" />
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
+          Título del producto 1
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#424242" font-size="12px" line-height="22px" padding-bottom="30px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla<br /><br />
+        </mj-text>
+      </mj-column>
+      <mj-column width="3%" padding-bottom="20px"></mj-column>
+      <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
+        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto2-big.jpg" alt="" />
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
+          Título del producto 1
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#424242" font-size="12px" line-height="22px" padding-bottom="30px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0 0" background-color="#EEF2F5">
+      <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
+        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto3-big.jpg" alt="" />
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
+          Título del producto 1
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#424242" font-size="12px" line-height="22px" padding-bottom="30px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla<br /><br />
+        </mj-text>
+      </mj-column>
+      <mj-column width="3%" padding-bottom="20px"></mj-column>
+      <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
+        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto4-big.jpg" alt="" />
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
+          Título del producto 1
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#424242" font-size="12px" line-height="22px" padding-bottom="30px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 20px 30px" background-color="#EEF2F5">
+      <mj-column width="280px" background-color="#ffffff" padding="0">
+        <mj-button width="100%" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="17px" font-weight="400" color="#FF912B" line-height="16px" background-color="#EEF2F5" border-radius="0" border="2px solid #5458AD" padding="0" inner-padding="15px 10px" href="#todo">
+          New Call to Action
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#EEF2F5">
+      <mj-column padding="0" background-color="#EEF2F5" width="418px">
+        <mj-divider padding="5px 36px" border-width="1px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#EEF2F5">
+      <mj-column>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#5458AD" line-height="24px" padding-bottom="10px">
+          be social
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#EEF2F5">
+      <mj-column padding="0">
+        <mj-social padding="20px 0px" font-size="15px" icon-size="42px" mode="horizontal">
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-flickr-circular.png" alt="Flickr"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-facebook-circular.png" alt="Facebook"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-twitter-circular.png" alt="Twitter"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-vimeo-circular.png" alt="Vimeo"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-pinterest-circular.png" alt="Pinterest"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-linkedin-circular.png" alt="Linkedin"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#EEF2F5">
+      <mj-column padding="0" background-color="#EEF2F5" width="418px">
+        <mj-divider padding="5px 36px" border-width="1px" border-style="solid" border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+  
+    <mj-section padding="15px 15px 40px" background-color="#EEF2F5">
+      <mj-column width="500px">
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" color="#6B6B6B" line-height="12px" letter-spacing="0.1px" padding-bottom="0">
+          @2020 Copyleft
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" color="#6B6B6B" line-height="12px" letter-spacing="0.1px" padding-bottom="0">
+          Not all right are reserved
+        </mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" color="#6B6B6B" line-height="12px" letter-spacing="0.1px" padding-bottom="0">
+          <a href="#todo" style="color:#6B6B6B;text-decoration:underline;font-size:11px">Privacy Policy</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>

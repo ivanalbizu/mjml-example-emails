@@ -1,0 +1,30 @@
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column width="20%" padding="10px 0">
+          <mj-text align="center" padding="10px 0" color="#ffffff">
+            <span style="background-color:#4E798F;text-align:center;padding:5px 10px">15 dec</span>
+          </mj-text>
+        </mj-column>
+        <mj-column width="80%" padding="10px 0">
+          <mj-text align="left" padding="10px 0 20px 0">
+            <div style="background-image:url('http://ivanalbizu.eu/experimentos/mails/news-05/line-vertical.png'); background-repeat:repeat-y; background-position-x:0;">
+              <div>
+                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <span style="padding-left:9px;">Responsive</span>
+              </div>
+              <p style="padding:0 3px 10px 20px;line-height:20px">MJML is responsive by design on most-popular dsdsf email clients, even Outlook.</p>
+              <div>
+                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <span style="padding-left:9px;">Responsive</span>
+              </div>
+              <p style="padding:0 3px 10px 20px;line-height:20px">With two lines to see break MJML is responsive by design on most-popular dsdsf email clients, even Outlook.</p>
+              <div>
+                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <span style="padding-left:9px;">Responsive</span>
+              </div>
+              <p style="padding:0 3px 0 20px;line-height:20px">MJML is responsive by design on most-popular dsdsf email clients, even Outlook.</p>
+            </div>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>

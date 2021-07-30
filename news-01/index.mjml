@@ -1,0 +1,212 @@
+<mjml owa="desktop">
+
+  <mj-head>
+		<mj-breakpoint width="480px" />
+    <mj-attributes>
+      <mj-text align="center" padding="10px" />
+      <mj-image padding="0"></mj-image>
+      <mj-section padding="0"></mj-section>
+      <mj-column padding="0"></mj-column>
+      <mj-button border-radius="0"></mj-button>
+      <mj-all font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="400" line-height="16px" />
+    </mj-attributes>
+    <mj-style>
+      @media all and (max-width: 480px) {
+        .menu a {
+          font-size: 13px;
+          padding-left: 3px !important;
+          padding-right: 3px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f5f5f5" width="640px">
+
+    <mj-section padding="0" background-color="#f5f5f5">
+      <mj-column>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="12px" font-weight="300" font-style="italic" color="#798897">
+          <a style="color:#798897;text-decoration:underline;" href="https://www.figma.com/file/Ijhvn7ALK5qAI7zGsriadq/news-01?node-id=1%3A3">
+          Ver en navegador
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#DA4447">
+      <mj-column>
+        <mj-image src="http://ivanalbizu.eu/experimentos/mails/logo.png" width="168px" height="71px" alt="Logo" padding="20px 0" href="#todo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="5px 0" background-color="#ffffff">
+      <mj-group>
+        <mj-column>
+          <mj-text font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="300" line-height="24px" text-transform="uppercase" padding="10px 0" css-class="menu">
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Men</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Women</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Kids</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Accesories</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Sale</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image src="http://ivanalbizu.eu/experimentos/mails/banner.jpg" width="640px" alt="Banner" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0" background-color="#DA4447">
+      <mj-column>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="18px" font-weight="400" color="#ffffff" line-height="18px" padding-bottom="15px">
+          Our gift
+        </mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="35px" font-weight="300" color="#ffffff" line-height="35px" padding-bottom="15px">
+          YOUR PROMO CODE
+        </mj-text>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="600" color="#ffffff" line-height="16px" background-color="#000000" border-radius="0" inner-padding="12px 30px" href="#todo">
+          SHOP SALE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column padding="0" background-color="#ffffff">
+        <mj-divider padding="5px 0" border-width="1px" border-style="solid" border-color="#E5E5E5" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0 10px" background-color="#ffffff">
+      <mj-column padding="15px 0 0">
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="18px" font-weight="400" color="#000000" line-height="18px" padding-bottom="15px">
+          For HER
+        </mj-text>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          UNDER 40 €
+        </mj-button>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          UNDER 200 €
+        </mj-button>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          UNDER 250 €
+        </mj-button>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          SURPRISE GIFT
+        </mj-button>
+      </mj-column>
+      <mj-column padding="15px 0 0">
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="18px" font-weight="400" color="#000000" line-height="18px" padding-bottom="15px">
+          Our gift
+        </mj-text>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          UNDER 40 €
+        </mj-button>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          UNDER 200 €
+        </mj-button>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          UNDER 250 €
+        </mj-button>
+        <mj-button font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="400" color="#000000" line-height="16px" background-color="#FFF4F1" border-radius="0" padding="10px 20px" inner-padding="15px 30px" width="100%" href="#todo">
+          SUSPRISE GIFT
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 20px" background-color="#ffffff">
+      <mj-section padding="0" background-color="#ffffff">
+        <mj-column width="32%" padding="0 0 15px">
+          <mj-image container-background-color="#FFF4F1" src="http://ivanalbizu.eu/experimentos/mails/gift.png" width="116px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-text container-background-color="#FFF4F1" font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="300" color="#000000" line-height="16px" padding="10px 0 30px">
+            <a href="#todo" style="color:#000000;text-decoration:none;">Lorem Ipsum</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="2%"></mj-column>
+        <mj-column width="32%" padding="0 0 15px">
+          <mj-image container-background-color="#FFF4F1" src="http://ivanalbizu.eu/experimentos/mails/credit-card.png" width="116px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-text container-background-color="#FFF4F1" font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="300" color="#000000" line-height="16px" padding="10px 0 30px">
+            <a href="#todo" style="color:#000000;text-decoration:none;">Lorem Ipsum</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="2%"></mj-column>
+        <mj-column width="32%" padding="0 0 15px">
+          <mj-image container-background-color="#FFF4F1" src="http://ivanalbizu.eu/experimentos/mails/shopping-bag.png" width="116px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-text container-background-color="#FFF4F1" font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="300" color="#000000" line-height="16px" padding="10px 0 30px">
+            <a href="#todo" style="color:#000000;text-decoration:none;">Lorem Ipsum</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="0">
+      <mj-column padding="0" background-color="#ffffff">
+        <mj-divider padding="5px 0" border-width="1px" border-style="solid" border-color="#E5E5E5" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column>
+          <mj-text font-family="Helvetica, Arial, sans-serif" font-size="16px" font-weight="300" line-height="24px" text-transform="uppercase" padding="10px 0" css-class="menu">
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Men</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Women</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Kids</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Accesories</a>
+            <a style="color:#000000;text-decoration:none;padding:8px 7px;" href="#todo">Sale</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column padding="0" background-color="#ffffff">
+        <mj-divider padding="5px 0" border-width="1px" border-style="solid" border-color="#E5E5E5" />
+      </mj-column>
+    </mj-section>
+  
+    <mj-section padding="15px 0 0" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-social padding="20px 0px" icon-size="25px" mode="horizontal">
+          <mj-social-element padding="5px 12px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/entypo-social_youtube-with-circle.png" alt="Youtube"></mj-social-element>
+          <mj-social-element padding="5px 12px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/entypo-social_pinterest-with-circle.png" alt="Pinterest"></mj-social-element>
+          <mj-social-element padding="5px 12px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/entypo-social_twitter-with-circle.png" alt="Twitter"></mj-social-element>
+          <mj-social-element padding="5px 12px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/entypo-social_facebook-with-circle.png" alt="Facebook"></mj-social-element>
+          <mj-social-element padding="5px 12px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/entypo-social_instagram-with-circle.png" alt="Instagram"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="17px" font-weight="600" color="#DA4447" line-height="24px" letter-spacing="0.3px" text-transform="uppercase">
+          Free shipping for orders over 40 €
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px" background-color="#ffffff">
+      <mj-column width="500px">
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="12px" font-weight="300" color="#798897" line-height="16px" letter-spacing="0.1px" padding-bottom="10px">
+          Lorem ipsum <a href="mailto:#todo@mail.com" style="color:#798897;text-decoration:underline;font-size:12px">dolor@amet.com</a>, consectetur adipiscing elit ut aliquam
+        </mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="12px" font-weight="300" color="#798897" line-height="16px" letter-spacing="0.1px" padding-bottom="10px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget
+        </mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="12px" font-weight="300" color="#798897" line-height="16px" letter-spacing="0.1px" padding-bottom="10px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing
+        </mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="12px" font-weight="300" color="#798897" line-height="16px" letter-spacing="0.1px" padding-bottom="10px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit <a href="#todo" style="color:#798897;text-decoration:underline;font-size:12px">click here</a>
+        </mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-size="12px" font-weight="300" color="#798897" line-height="16px" letter-spacing="0.1px" padding-bottom="10px">
+          <a href="#todo" style="color:#798897;text-decoration:underline;font-size:12px">unsusbcribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>
