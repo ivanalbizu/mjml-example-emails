@@ -44,10 +44,10 @@
         <mj-raw>
           <table cellpadding="0" cellspacing="0" border="0" height="300" width="100%">
             <tr>
-              <td background="http://ivanalbizu.eu/experimentos/mails/news-05/img-1.jpg" bgcolor="#7fffd4" width="640" height="300" valign="middle" style="background-position:center;text-align:center;">
+              <td background="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/img-1.jpg" bgcolor="#7fffd4" width="640" height="300" valign="middle" style="background-position:center;text-align:center;">
                 <!--[if gte mso 9]>
                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:640px;height:300px;">
-                  <v:fill type="tile" src="http://ivanalbizu.eu/experimentos/mails/news-05/img-1.jpg" color="#7fffd4" />
+                  <v:fill type="tile" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/img-1.jpg" color="#7fffd4" />
                   <v:textbox inset="0,0,0,0">
                 <![endif]-->
                 <table cellpadding="0" cellspacing="0" border="0" width="100%" border-collapse="collapse">
@@ -79,7 +79,7 @@
           <mj-table align="left">
             <tr>
               <td style="width:11px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;">Bienvenida</p>
@@ -99,7 +99,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">10:00 - 12:00</span> John Doe - Angular</p>
@@ -118,7 +118,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">12:00 - 14:00</span> Jane Doe - Vue</p>
@@ -137,7 +137,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">14:00 - 15:00</span> Breakfast</p>
@@ -152,7 +152,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">15:00 - 17:00</span> Richard Roe - Svelte</p>
@@ -171,7 +171,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">17:00 - 19:00</span> John Roe - React</p>
@@ -202,10 +202,10 @@
         <mj-raw>
           <table cellpadding="0" cellspacing="0" border="0" height="300" width="100%">
             <tr>
-              <td background="http://ivanalbizu.eu/experimentos/mails/news-05/img-2.jpg" bgcolor="#7fffd4" width="640" height="300" valign="middle" style="background-position:center;text-align:center;">
+              <td background="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/img-2.jpg" bgcolor="#7fffd4" width="640" height="300" valign="middle" style="background-position:center;text-align:center;">
                 <!--[if gte mso 9]>
                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:640px;height:300px;">
-                  <v:fill type="tile" src="http://ivanalbizu.eu/experimentos/mails/news-05/img-2.jpg" color="#7fffd4" />
+                  <v:fill type="tile" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/img-2.jpg" color="#7fffd4" />
                   <v:textbox inset="0,0,0,0">
                 <![endif]-->
                 <table cellpadding="0" cellspacing="0" border="0" width="100%" border-collapse="collapse">
@@ -237,7 +237,7 @@
           <mj-table align="left">
             <tr>
               <td style="width:11px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;">Bienvenida</p>
@@ -257,7 +257,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">10:00 - 12:00</span> John Doe - Nuxt</p>
@@ -276,7 +276,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">12:00 - 14:00</span> Jane Doe - Hugo</p>
@@ -295,7 +295,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">14:00 - 15:00</span> Breakfast</p>
@@ -310,7 +310,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">15:00 - 17:00</span> Richard Roe - Next</p>
@@ -329,7 +329,7 @@
 
             <tr>
               <td style="width:18px; text-align:center;" colspan="3" valign="middle">
-                <img src="http://ivanalbizu.eu/experimentos/mails/news-05/bullet.png" />
+                <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-05/img/bullet.png" />
               </td>
               <td style="padding:0 3px 0 5px;">
                 <p style="margin:10px 0 10px;color:#4E798F;"><span style="text-decoration:underline;margin-right:5px;">17:00 - 19:00</span> John Roe - Gatsby</p>

@@ -50,16 +50,16 @@
     <mj-section padding="0 0 15px" background-color="#ffffff">
       <mj-group>
         <mj-column padding="40px 0">
-          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_first-aid.png" width="60px" height="60px" alt="" />
+          <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/medical-icon_first-aid.png" width="60px" height="60px" alt="" />
         </mj-column>
         <mj-column padding="40px 0">
-          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_cardiology.png" width="60px" height="60px" alt="" />
+          <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/medical-icon_cardiology.png" width="60px" height="60px" alt="" />
         </mj-column>
         <mj-column padding="40px 0">
-          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_care-staff-area.png" width="60px" height="60px" alt="" />
+          <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/medical-icon_care-staff-area.png" width="60px" height="60px" alt="" />
         </mj-column>
         <mj-column padding="40px 0">
-          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/medical-icon_family-practice.png" width="60px" height="60px" alt="" />
+          <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/medical-icon_family-practice.png" width="60px" height="60px" alt="" />
         </mj-column>
       </mj-group>
     </mj-section>
@@ -91,28 +91,28 @@
         </mj-button>
       </mj-column>
       <mj-column vertical-align="middle" css-class="bg-orange">
-        <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/soap.jpg" alt="Soap" />
+        <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/soap.jpg" alt="Soap" />
       </mj-column>
     </mj-section>
 
     <mj-wrapper padding="20px 20px 20px" background-color="#F6F5F5">
       <mj-section padding="0" background-color="#F6F5F5">
         <mj-column background-color="#ffffff" width="32%" padding="0 0 15px" border="2px solid #FF912B">
-          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/stethoscope.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/stethoscope.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
           <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#FF912B" line-height="16px" padding="10px 0">
             <a href="#todo" style="color:#FF912B;text-decoration:none;">Salud</a>
           </mj-text>
         </mj-column>
         <mj-column width="2%" padding-bottom="20px"></mj-column>
         <mj-column background-color="#ffffff" width="32%" padding="0 0 15px" border="2px solid #FF912B">
-          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/heart.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/heart.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
           <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#FF912B" line-height="16px" padding="10px 0">
             <a href="#todo" style="color:#FF912B;text-decoration:none;">Bienestar</a>
           </mj-text>
         </mj-column>
         <mj-column width="2%" padding-bottom="20px"></mj-column>
         <mj-column background-color="#ffffff" width="32%" padding="0 0 15px" border="2px solid #FF912B">
-          <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/stomach.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
+          <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/stomach.png" width="100px" alt="Banner" padding="20px 0" href="#todo" />
           <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="400" color="#FF912B" line-height="16px" padding="10px 0">
             <a href="#todo" style="color:#FF912B;text-decoration:none;">Alimentación</a>
           </mj-text>
@@ -122,7 +122,7 @@
 
     <mj-section padding="30px 0" background-color="#ffffff">
       <mj-column vertical-align="middle">
-        <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-02/stop.png" width="219px" alt="Stop" padding="0" />
+        <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/stop.png" width="219px" alt="Stop" padding="0" />
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-text font-family="Arial, Helvetica, sans-serif" font-size="30px" font-weight="400" color="#5458AD" line-height="34px" padding-bottom="10px">
@@ -148,12 +148,12 @@
     <mj-section padding="0" background-color="#F0F0F0">
       <mj-column padding="0">
         <mj-social padding="20px 0px" font-size="15px" icon-size="42px" mode="horizontal">
-          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-flickr-circular.png" alt="Flickr"></mj-social-element>
-          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-facebook-circular.png" alt="Facebook"></mj-social-element>
-          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-twitter-circular.png" alt="Twitter"></mj-social-element>
-          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-vimeo-circular.png" alt="Vimeo"></mj-social-element>
-          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-pinterest-circular.png" alt="Pinterest"></mj-social-element>
-          <mj-social-element padding="2px" href="#todo" src="http://ivanalbizu.eu/experimentos/mails/news-02/typcn_social-linkedin-circular.png" alt="Linkedin"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/typcn_social-flickr-circular.png" alt="Flickr"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/typcn_social-facebook-circular.png" alt="Facebook"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/typcn_social-twitter-circular.png" alt="Twitter"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/typcn_social-vimeo-circular.png" alt="Vimeo"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/typcn_social-pinterest-circular.png" alt="Pinterest"></mj-social-element>
+          <mj-social-element padding="2px" href="#todo" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-02/img/typcn_social-linkedin-circular.png" alt="Linkedin"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>

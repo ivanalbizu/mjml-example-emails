@@ -44,7 +44,7 @@
 
     <mj-section padding="0 20px 7px" background-color="#EEF2F5">
       <mj-column width="280px" background-color="#ffffff" padding="33px 10px">
-        <mj-image src="http://ivanalbizu.eu/experimentos/mails/news-03/calendar.png" width="42px" height="48px" alt="" />
+        <mj-image src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-03/img/calendar.png" width="42px" height="48px" alt="" />
         <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#424242" font-size="13px" font-style="italic" line-height="18px" padding-bottom="0">
           15/02/2020
         </mj-text>
@@ -61,7 +61,7 @@
 
     <mj-section padding="20px 0 0" background-color="#EEF2F5">
       <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
-        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto1-big.jpg" alt="" />
+        <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-03/img/producto1-big.jpg" alt="" />
         <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
           Título del producto 1
         </mj-text>
@@ -71,7 +71,7 @@
       </mj-column>
       <mj-column width="3%" padding-bottom="20px"></mj-column>
       <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
-        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto2-big.jpg" alt="" />
+        <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-03/img/producto2-big.jpg" alt="" />
         <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
           Título del producto 1
         </mj-text>
@@ -83,7 +83,7 @@
 
     <mj-section padding="20px 0 0" background-color="#EEF2F5">
       <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
-        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto3-big.jpg" alt="" />
+        <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-03/img/producto3-big.jpg" alt="" />
         <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
           Título del producto 1
         </mj-text>
@@ -93,7 +93,7 @@
       </mj-column>
       <mj-column width="3%" padding-bottom="20px"></mj-column>
       <mj-column width="48.5%" background-color="#E2E8EB" padding="0">
-        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-03/producto4-big.jpg" alt="" />
+        <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-03/img/producto4-big.jpg" alt="" />
         <mj-text align="center" font-family="Arial, Helvetica, sans-serif" color="#5458AD" font-size="18px" line-height="22px" padding-bottom="0">
           Título del producto 1
         </mj-text>

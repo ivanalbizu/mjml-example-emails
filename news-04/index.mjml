@@ -32,7 +32,7 @@
       height="450px"
       background-width="640px"
       background-height="450px"
-      background-url="http://ivanalbizu.eu/experimentos/mails/news-04/intro.jpg"
+      background-url="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/intro.jpg"
       padding="100px 0px">
       <mj-text
         padding="20px"
@@ -57,7 +57,7 @@
 
     <mj-section padding="55px 20px 55px" background-color="#F5F1EC">
       <mj-column width="48%" padding="0 0 20px">
-        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-5.jpg" alt="" />
+        <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/img-5.jpg" alt="" />
         <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#1A1510" font-size="18px" line-height="22px" letter-spacing="0.8px" padding="10px 0 20px">
           Lorem ipsum dolor sit amet, consectetur adipiscing
         </mj-text>
@@ -67,7 +67,7 @@
       </mj-column>
       <mj-column width="4%" padding-bottom="20px"></mj-column>
       <mj-column width="48%" padding="0">
-        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-4.jpg" alt="" />
+        <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/img-4.jpg" alt="" />
         <mj-text font-family="'Roboto Condensed', Helvetica, sans-serif" color="#1A1510" font-size="18px" line-height="22px" letter-spacing="0.8px" padding="10px 0 20px">
           Lorem ipsum dolor sit amet, consectetur adipiscing
         </mj-text>
@@ -81,7 +81,7 @@
 
       <mj-section padding="55px 20px 10px" background-color="#5D462E">
         <mj-column width="48%" padding="0" background-color="#5D462E">
-          <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-3.jpg" alt="" />
+          <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/img-3.jpg" alt="" />
         </mj-column>
         <mj-column width="4%" padding-bottom="20px" background-color="#5D462E"></mj-column>
         <mj-column width="48%" padding="0" background-color="#5D462E">
@@ -99,7 +99,7 @@
 
       <mj-section padding="55px 20px 10px" background-color="#5D462E" direction="rtl">
         <mj-column width="48%" padding="0" background-color="#5D462E">
-          <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-2.jpg" alt="" />
+          <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/img-2.jpg" alt="" />
         </mj-column>
         <mj-column width="4%" padding-bottom="20px" background-color="#5D462E"></mj-column>
         <mj-column width="48%" padding="0" background-color="#5D462E">
@@ -117,7 +117,7 @@
 
       <mj-section padding="55px 20px 10px" background-color="#5D462E">
         <mj-column width="48%" padding="0" background-color="#5D462E">
-          <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img-1.jpg" alt="" />
+          <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/img-1.jpg" alt="" />
         </mj-column>
         <mj-column width="4%" padding-bottom="20px" background-color="#5D462E"></mj-column>
         <mj-column width="48%" padding="0" background-color="#5D462E">
@@ -137,7 +137,7 @@
 
     <mj-section padding="55px 20px 55px" background-color="#ffffff">
       <mj-column width="48%" padding="0">
-        <mj-image fluid-on-mobile="true" src="http://ivanalbizu.eu/experimentos/mails/news-04/img.jpg" alt="" />
+        <mj-image fluid-on-mobile="true" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/img.jpg" alt="" />
       </mj-column>
       <mj-column width="4%" padding-bottom="20px"></mj-column>
       <mj-column width="48%" padding="0">
@@ -147,7 +147,7 @@
         <mj-table align="left" padding="0">
           <tr>
             <td style="width:20px;padding:0 0 10px;vertical-align:top;">
-              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+              <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/bullet.png" />
             </td>
             <td style="padding:0 0 10px;">
               <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
@@ -157,7 +157,7 @@
           </tr>
           <tr>
             <td style="width:20px;padding:0 0 10px;vertical-align:top;">
-              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+              <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/bullet.png" />
             </td>
             <td style="padding:0 0 10px;">
               <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
@@ -167,7 +167,7 @@
           </tr>
           <tr>
             <td style="width:20px;padding:0 0 10px;vertical-align:top;">
-              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+              <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/bullet.png" />
             </td>
             <td style="padding:0 0 10px;">
               <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
@@ -177,7 +177,7 @@
           </tr>
           <tr>
             <td style="width:20px;padding:0 0 10px;vertical-align:top;">
-              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+              <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/bullet.png" />
             </td>
             <td style="padding:0 0 10px;">
               <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
@@ -187,7 +187,7 @@
           </tr>
           <tr>
             <td style="width:20px;padding:0 0 10px;vertical-align:top;">
-              <img src="http://ivanalbizu.eu/experimentos/mails/news-04/bullet.png" />
+              <img src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/bullet.png" />
             </td>
             <td style="padding:0 0 10px;">
               <span style="font-family:Roboto, Helvetica, sans-serif;color:#1A1510;font-size:15px;line-height:19px;letter-spacing:0;padding:0 0 20px;font-weight:300">
@@ -213,9 +213,9 @@
     <mj-section padding="0" background-color="#F0F2F0">
       <mj-column padding="0">
         <mj-social padding="20px 0px 40px" font-size="15px" icon-size="48px" mode="horizontal">
-          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="http://ivanalbizu.eu/experimentos/mails/news-04/instagram.png" alt="Instagram"></mj-social-element>
-          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="http://ivanalbizu.eu/experimentos/mails/news-04/twitter.png" alt="Twitter"></mj-social-element>
-          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="http://ivanalbizu.eu/experimentos/mails/news-04/linkedin.png" alt="Linkedin"></mj-social-element>
+          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/instagram.png" alt="Instagram"></mj-social-element>
+          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/twitter.png" alt="Twitter"></mj-social-element>
+          <mj-social-element padding="2px 16px" href="https://ivanalbizu.eu/" src="https://raw.githubusercontent.com/ivanalbizu/mjml-example-emails/main/news-04/img/linkedin.png" alt="Linkedin"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
